@@ -14,12 +14,9 @@
 
 ## Terminology
 
-<!-- Add product-specific terms and preferred usage -->
-<!-- Example: Use "workspace" not "project", "member" not "user" -->
+- Avoid jargon if possible
 
 ## Style preferences
-
-<!-- Add any project-specific style rules below -->
 
 - Use active voice and second person ("you")
 - Keep sentences concise — one idea per sentence
@@ -29,5 +26,5 @@
 
 ## Content boundaries
 
-<!-- Define what should and shouldn't be documented -->
-<!-- Example: Don't document internal admin features -->
+- Do document definitions and workflows for final users
+- Don't document internal admin features
