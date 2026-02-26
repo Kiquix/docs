@@ -54,15 +54,13 @@
             "pages": [
               "billing/plans",
               "billing/billing-period",
-              "billing/taxes"
+              "billing/taxes",
+              "billing/switch-plans"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": []
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
