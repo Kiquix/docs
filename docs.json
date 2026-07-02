@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Start here",
             "pages": [
               "index",
               "getting-started/account",
@@ -22,12 +22,14 @@
             ]
           },
           {
-            "group": "Research",
+            "group": "Core concepts",
             "pages": [
               "projects",
               "studies",
               "methods",
-              "sharing"
+              "sharing",
+              "insights",
+              "report-builder"
             ]
           },
           {
@@ -38,8 +40,7 @@
                 "pages": [
                   "how-to/create-project",
                   "how-to/create-tester-pool",
-                  "how-to/manage-team-and-billing",
-                  "how-to/manage-subscription"
+                  "how-to/manage-team-and-billing"
                 ]
               },
               {
@@ -52,7 +53,7 @@
                 ]
               },
               {
-                "group": "Analysis",
+                "group": "Analyze",
                 "pages": [
                   "how-to/review-results-and-insights",
                   "how-to/create-study-ai-insights",
@@ -78,31 +79,15 @@
             ]
           },
           {
-            "group": "Analysis",
-            "pages": [
-              "insights",
-              "report-builder"
-            ]
-          },
-          {
-            "group": "Account & team",
+            "group": "Account & billing",
             "pages": [
               "settings",
-              "team"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Billing",
-        "groups": [
-          {
-            "group": "Billing & plans",
-            "pages": [
+              "team",
               "billing/plans",
               "billing/billing-period",
               "billing/taxes",
-              "billing/switch-plans"
+              "billing/switch-plans",
+              "how-to/manage-subscription"
             ]
           }
         ]
