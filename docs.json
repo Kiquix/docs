@@ -31,6 +31,28 @@
             ]
           },
           {
+            "group": "How-to guides",
+            "pages": [
+              "how-to/create-project",
+              "how-to/create-and-launch-study",
+              "how-to/share-study",
+              "how-to/review-results-and-insights",
+              "how-to/create-report",
+              "how-to/manage-team-and-billing",
+              "how-to/create-tester-pool",
+              "how-to/create-usability-test",
+              "how-to/create-user-interview",
+              "how-to/create-study-ai-insights",
+              "how-to/create-project-ai-insights",
+              "how-to/create-ai-report",
+              "how-to/manage-subscription",
+              "how-to/connect-jira",
+              "how-to/connect-google-calendar",
+              "how-to/connect-posthog",
+              "how-to/connect-google-analytics"
+            ]
+          },
+          {
             "group": "Analysis",
             "pages": [
               "insights",
