@@ -31,45 +31,50 @@
             ]
           },
           {
-            "group": "How-to: Setup",
+            "group": "How-to",
             "pages": [
-              "how-to/create-project",
-              "how-to/create-tester-pool",
-              "how-to/manage-team-and-billing",
-              "how-to/manage-subscription"
-            ]
-          },
-          {
-            "group": "How-to: Studies",
-            "pages": [
-              "how-to/create-and-launch-study",
-              "how-to/create-usability-test",
-              "how-to/create-user-interview",
-              "how-to/share-study"
-            ]
-          },
-          {
-            "group": "How-to: Analysis",
-            "pages": [
-              "how-to/review-results-and-insights",
-              "how-to/create-study-ai-insights",
-              "how-to/create-project-ai-insights"
-            ]
-          },
-          {
-            "group": "How-to: Reports",
-            "pages": [
-              "how-to/create-report",
-              "how-to/create-ai-report"
-            ]
-          },
-          {
-            "group": "How-to: Integrations",
-            "pages": [
-              "how-to/connect-jira",
-              "how-to/connect-google-calendar",
-              "how-to/connect-posthog",
-              "how-to/connect-google-analytics"
+              {
+                "group": "Setup",
+                "pages": [
+                  "how-to/create-project",
+                  "how-to/create-tester-pool",
+                  "how-to/manage-team-and-billing",
+                  "how-to/manage-subscription"
+                ]
+              },
+              {
+                "group": "Studies",
+                "pages": [
+                  "how-to/create-and-launch-study",
+                  "how-to/create-usability-test",
+                  "how-to/create-user-interview",
+                  "how-to/share-study"
+                ]
+              },
+              {
+                "group": "Analysis",
+                "pages": [
+                  "how-to/review-results-and-insights",
+                  "how-to/create-study-ai-insights",
+                  "how-to/create-project-ai-insights"
+                ]
+              },
+              {
+                "group": "Reports",
+                "pages": [
+                  "how-to/create-report",
+                  "how-to/create-ai-report"
+                ]
+              },
+              {
+                "group": "Integrations",
+                "pages": [
+                  "how-to/connect-jira",
+                  "how-to/connect-google-calendar",
+                  "how-to/connect-posthog",
+                  "how-to/connect-google-analytics"
+                ]
+              }
             ]
           },
           {
