@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "palm",
-  "name": "Fred Documentation",
+  "name": "Fred The User Research Shepherd",
   "colors": {
     "primary": "#2563EB",
     "light": "#3B82F6",
@@ -100,5 +100,6 @@
   },
   "navbar": {
     "links": []
-  }
+  },
+  "description": "Fred’s official documentation and support hub. Find guides and answers to help you set up user research studies, manage participants, analyse results and use research evidence to inform product decisions."
 }
